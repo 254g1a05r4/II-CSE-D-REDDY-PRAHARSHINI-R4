@@ -141,7 +141,7 @@ DESC Grade_Report;
 SELECT * FROM tab;
 ```
 
-![output](op7,png)
+![output](op7.png)
 
 
 
@@ -193,7 +193,7 @@ DROP TABLE Course;
 ```
 DROP TABLE Student;
 ```
-![output](op12)
+![output](op12.png)
 
 
 
