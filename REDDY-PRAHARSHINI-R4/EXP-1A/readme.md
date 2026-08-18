@@ -62,3 +62,20 @@ DESC section;
 DESC grade_report;
 ```
 ![output](o-9.png)
+```
+SELECT * FROM student;
+```
+![output](o-10.png)
+```
+SELECT * FROM course;
+```
+![output](o-12.png)
+```
+SELECT * FROM section;
+```
+![output](o-13.png)
+```
+SELECT * FROM grade_report;
+```
+![output](o-14.png)
+
