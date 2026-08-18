@@ -46,3 +46,19 @@ INSERT INTO grade_report
 VALUES(8,135,'A');
 ```
 ![output](o-5.png)
+```
+DESC student;
+```
+![output](o-6.png)
+```
+DESC course;
+```
+![output](o-7.png)
+```
+DESC section;
+```
+![output](o-8.png)
+```
+DESC grade_report;
+```
+![output](o-9.png)
