@@ -18,4 +18,3 @@ day DATE
 );
 ```
 ![output](p1.png)
-
