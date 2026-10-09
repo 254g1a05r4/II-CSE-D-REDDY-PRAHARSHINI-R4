@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #(6a) develop a program that includes the features NESTED IF,CASE AND CASE expression.
 ```
 SET SERVEROUTPUT ON;
@@ -231,3 +232,33 @@ END;
 ![output](6b-4.png)
 ![output](6b-5.png)
 ![output](6b-6.png)
+=======
+#create a tables
+```
+CREATE TABLE student(
+Name VARCHAR2(40),
+Student_number NUMBER,
+Class NUMBER,
+Major VARCHAR2(5)
+);
+CREATE TABLE course(
+Course_name VARCHAR2(10),
+Course_number VARCHAR2(20),
+Credit_hour NUMBER,
+Department VARCHAR2(10)
+);
+CREATE TABLE section(
+Section_identifier NUMBER,
+Section_number VARCHAR2(10),
+Semester VARCHAR2(10),
+Year NUMBER,
+Instructor VARCHAR2(10)
+);
+CREATE TABLE grade_report(
+Student_number NUMBER,
+Section_identifier NUMBER,
+Grade VARCHAR2(5)
+);
+```
+![output](op-1.png)
+>>>>>>> a8e4a84f5ddef8b97ff1091a52aa9b6acd72bd51

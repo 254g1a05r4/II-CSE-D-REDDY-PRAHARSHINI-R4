@@ -1,0 +1,10 @@
+# CREATE A TABLE STUDENT
+
+```
+CREATE  TABLE STUDENT(
+sid NUMBER,
+sname VARCHAR2(20));
+
+```
+
+ ![CREATE TABLE OUTPUT](op1.png)
